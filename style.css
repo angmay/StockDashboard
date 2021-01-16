@@ -1,10 +1,23 @@
-.jumbotron {
-    background-color: #050404;
-    font-size: 40px;
-    color: azure;
+.navbar {
+    background-color:#040302;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 20px;
 }
 
 #report-date {
     font-size: 50px;
     color: azure;
+}
+
+.icon { 
+    width: 60%;
+    height: 60%;
+}
+
+.card-title { 
+    font-size: 50px;
+    color: #040302;
 }
